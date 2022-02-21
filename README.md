@@ -8,7 +8,7 @@
     <ul>
       <li> Nguyễn Hồng Anh Thư - 20520313 </li>
       <li> Lê Tấn Lộc - 20521546 </li>
-      <li> Nguyễn Đặng Bảo Ngọc - 205201663 </li>
+      <li> Nguyễn Đặng Bảo Ngọc - 20521663 </li>
     </ul>
     <h1> Chủ đề báo cáo </h1>
     <b> Phương pháp thiết kế thuật toán: Divide and Conquer </b>
