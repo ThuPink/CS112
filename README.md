@@ -58,8 +58,8 @@
     - Đặc điểm bài toán
     - Dạng thuật toán phổ quát (template/framework)
     - Ưu và nhược điểm
-    - 2 bài toán minh họa (thích hợp/không thích hợp)
-    - BTVN + quiz: Đánh giá mức độ hiểu bài
+    - Bài toán minh họa
+    - Quiz: Đánh giá mức độ hiểu bài
     - Contest Wecode
 
 
