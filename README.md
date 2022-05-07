@@ -60,6 +60,6 @@
     - Ưu và nhược điểm
     - Bài toán minh họa
     - Quiz: Đánh giá mức độ hiểu bài
-    - Contest Wecode
+    - Contest <a href="https://khmt.uit.edu.vn/wecode/sonnt/assignment/138/250">Wecode</a>
 
 
